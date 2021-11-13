@@ -15,4 +15,4 @@ And each car can have multiple agents or agents will be selling multiple cars. H
 
 ![](linkedcf.png)
 
-For more information please vist the blog: 
+For more information please vist the blog: https://kirantech58867409.wordpress.com/2021/11/13/aem-get-linked-content-fragments-content/
